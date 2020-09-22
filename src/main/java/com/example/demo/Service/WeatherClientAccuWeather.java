@@ -18,7 +18,7 @@ public class WeatherClientAccuWeather extends WeatherClient {
     private static final String ACCUWEATHER_API_BASE_URL = "http://dataservice.accuweather.com/currentconditions/v1/";
     private static final String ACCUWEATHER_API_BASE_URL_SEARCH_KEY = "http://dataservice.accuweather.com/locations/v1/cities/geoposition/search";
     private static final Logger logger = LoggerFactory.getLogger(WeatherClientAccuWeather.class);
-    private static final String appKey = "I9rEZ0DUZkgVEUJ1ypYvj5Ke8JB1Ccin";
+    private static final String appKey = "pMoULAXjHw64OERBTJQCdhz0kEW9DnwN";
 
     private final RestTemplate restTemplate;
 
